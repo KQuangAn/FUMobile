@@ -1,0 +1,116 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [
+                {
+                    "text": "addtobasket not working properly , when user set addtobasekt in dishdetail screen , then return to main menu and click the restaurant again -> item quantity set to 1",
+                    "id": "cllnkzs4v000a4164dp2haug0"
+                },
+                {
+                    "text": "bottom tabs doesnt hide properly ",
+                    "id": "cllm2m9al000n4164fmzv37rw"
+                },
+                {
+                    "text": "when user delete an items in basket , the popup should dissapear in dish screen ",
+                    "id": "clllxfw8w000k41641v4awuyf"
+                }
+            ],
+            "id": "cllks7r4e000a4164iziuny2n",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "search suggesstions ",
+                    "id": "cllunj5sw000a4164gtc112cv"
+                },
+                {
+                    "text": "add restaurant status ( open / closed) and add styles accordingly",
+                    "id": "cllrncbmd000a41641fje2b7g"
+                },
+                {
+                    "text": "optional addon in dish detail screen",
+                    "id": "cllnl1s6g000b4164ssratxoy"
+                },
+                {
+                    "text": "add new font family",
+                    "id": "cllm5x18s000o4164t9qe4naz"
+                },
+                {
+                    "text": "category screen / food filter ",
+                    "id": "clllx2g71000i4164sb7t8neh"
+                },
+                {
+                    "text": "hide bottom tab on keyboard event",
+                    "id": "clllw9ak6000h4164ncb8w492"
+                },
+                {
+                    "text": "add rentals screen",
+                    "id": "clllvs5sd000f4164so5c7krh"
+                },
+                {
+                    "text": "add dishes screen",
+                    "id": "clllvs12v000e4164dk6jgy5u"
+                },
+                {
+                    "text": "add new restaurant screen ",
+                    "id": "clllvrsvs000d4164cq9jafcm"
+                },
+                {
+                    "text": "sellers screen ",
+                    "id": "clllvrp1y000c4164wmumvdwf"
+                },
+                {
+                    "text": "checkout functions",
+                    "id": "clllvd3ce000b4164bkm2v105"
+                },
+                {
+                    "text": "add reviews ",
+                    "id": "clllvcy6y000a41641g5jvz8s"
+                }
+            ],
+            "id": "cllks7r4e000c4164ib44tdl3",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [
+                {
+                    "text": "filters for rentals ",
+                    "id": "cllks7r4e000b4164fdgprn3z"
+                },
+                {
+                    "text": "fix dishdetail screen ui ",
+                    "id": "clllxie9t000l4164ye8gd3nl"
+                }
+            ],
+            "id": "cllks7r4e000d4164yp1394ka",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [
+                {
+                    "text": "authentication\n",
+                    "id": "clllyc37c000m416441sdatq1"
+                },
+                {
+                    "text": "update basket quantity ",
+                    "id": "clllx4j6r000j41640iuvaypr"
+                },
+                {
+                    "text": "changing images to fast images broke UI",
+                    "id": "cllnaioqq000a41646nciwcqk"
+                }
+            ],
+            "id": "cllks7r4e000e4164e20qst4e",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1693213393192
+}

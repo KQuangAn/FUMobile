@@ -1,0 +1,78 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "KQuangAn"
+      },
+      "category": "code",
+      "creation_time": "2023-08-18T10:17:39.411Z",
+      "description": {
+        "content": "change databaseto firebase \n",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "prio": 1,
+      "references": [],
+      "title": "migrate data to firebase"
+    },
+    {
+      "assignedTo": {
+        "name": "KQuangAn"
+      },
+      "category": "code",
+      "creation_time": "2023-08-18T14:48:47.301Z",
+      "description": {
+        "content": "card",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 1,
+      "references": [],
+      "title": "review card"
+    },
+    {
+      "assignedTo": {
+        "name": "KQuangAn"
+      },
+      "category": "code",
+      "creation_time": "2023-08-18T10:17:00.721Z",
+      "description": {
+        "content": "add favorite func for each food\n",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "favorite functionality"
+    },
+    {
+      "assignedTo": {
+        "name": "KQuangAn"
+      },
+      "category": "code",
+      "creation_time": "2023-08-18T10:16:39.255Z",
+      "description": {
+        "content": "add new sellers screens\n",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "sellers functions"
+    },
+    {
+      "assignedTo": {
+        "name": "KQuangAn"
+      },
+      "creation_time": "2023-08-18T16:22:18.103Z",
+      "description": {
+        "content": "geolib , currentlocation got but restaurant location sometiems undefined\n",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "get current loaction of user and calculate distance"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fumobileapp-mergeDebugResources-38:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/ankq/.gradle/caches/transforms-3/3c29fa273efa7e05c6dc64b6a2f35f92/transformed/appcompat-1.4.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

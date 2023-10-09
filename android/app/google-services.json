@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749142647328",
+    "project_id": "cocdoi-75bdb",
+    "storage_bucket": "cocdoi-75bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749142647328:android:75dfa2a044cadbfa325245",
+        "android_client_info": {
+          "package_name": "com.fumobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749142647328-eeuc0rk08ibsne40fc5chvqdlnbp1i83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fumobileapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "749142647328-ib5ka9l2svkqgsg4fgv8o6i7tqggie6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gjoIBNuLXPXPTLNGmg0rnDQkXyVOP9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749142647328-i5hlsf4b1rhjen891lufn04sh68e2l16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
